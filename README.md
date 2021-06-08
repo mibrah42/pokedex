@@ -1,6 +1,9 @@
 # pokedex
 
-Pokemon explorer built with flutter
+Pokemon Explorer Built with Flutter
+
+[Slides and Assets](https://drive.google.com/drive/folders/1r2F1cZpji8kpVGw82qAujVekTwaau4j-?usp=sharing)
+<br/>
 
 ### Create new project
 
