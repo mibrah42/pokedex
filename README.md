@@ -1,4 +1,4 @@
-# pokedex
+# Pokedex
 
 Pokemon Explorer Built with Flutter
 
