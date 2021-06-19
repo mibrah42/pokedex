@@ -45,7 +45,7 @@ flutter_native_splash:
 ### Create the file `analysis_options.yaml` in the root directory and add the following line
 
 ```yaml
-include: package:lint/analysis_options_package.yaml
+include: package:lint/analysis_options.yaml
 ```
 
 ### Add asset and font directories to `pubspec.yaml`
