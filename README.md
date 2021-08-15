@@ -61,3 +61,7 @@ include: package:lint/analysis_options.yaml
       fonts:
         - asset: assets/fonts/Pokemon-Regular.ttf
 ```
+
+### Credits
+
+Pokemon thumbnails and data provided by: https://github.com/fanzeyi/pokemon.json
