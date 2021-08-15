@@ -7,7 +7,7 @@ Pokemon Explorer Built with Flutter
 ![pokedex](https://user-images.githubusercontent.com/26859947/121121983-9f148c80-c7ee-11eb-897c-f29a695354f5.png)
 
 
-[Slides and Assets](https://drive.google.com/drive/folders/1r2F1cZpji8kpVGw82qAujVekTwaau4j-?usp=sharing)
+[Slides and Assets](https://drive.google.com/drive/folders/1h07GH35LMcRwXVf6Ihk6t4dFN8yLBQ47?usp=sharing)
 <br/>
 
 ### Create new project
