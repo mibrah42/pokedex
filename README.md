@@ -4,7 +4,7 @@ Pokemon Explorer Built with Flutter
 
 [Web Demo](https://pokedexweb.surge.sh/)
 
-![pokedex](https://user-images.githubusercontent.com/26859947/121121983-9f148c80-c7ee-11eb-897c-f29a695354f5.png)
+![pokedex3](https://user-images.githubusercontent.com/26859947/130743290-93af253b-cc72-4f45-b08e-63582e6042c3.png)
 
 [Slides and Assets](https://drive.google.com/drive/folders/1seMupFBbLDSVuMu2mvNr4OUMrCzHN2T9?usp=sharing)
 <br/>
